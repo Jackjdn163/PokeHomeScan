@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #121212;
+  color: white;
+}
+
+#results {
+  margin-top: 20px;
+}
